@@ -8,7 +8,7 @@ const Footer = () => {
         <div className="footer-content">  
             <div className="footer-content-left">  
                 <img src={assets.logo} alt="" />  
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio corporis quia quam laborum fuga error ipsa eveniet ipsum dolore ratione hic accusantium obcaecati quaerat culpa totam quibusdam, aliquid voluptatem cupiditate.</p>
+                <p>At DishDrop, we believe that great food should be fast, fresh, and hassle-free. Whether you're craving a quick snack or a full-course meal, we've got you covered with a wide variety of options, all delivered straight to your door in no time. With easy ordering, reliable delivery, and a focus on quality, we're here to make sure every meal is a moment worth savoring. Your cravings, our mission—delivered with care and convenience.</p>
                 <div className="footer-social-icons">
                     <img src={assets.facebook_icon} alt="" />
                     <img src={assets.twitter_icon} alt="" />
@@ -27,13 +27,13 @@ const Footer = () => {
             <div className="footer-content-right">  
             <h2> GET IN TOUCH</h2>
             <ul>
-                <li>+91-1234-5678</li>
-                <li>contact@tomato.com</li>
+                <li>+91-1234-567899</li>
+                <li>contact@DishDrop.com</li>
             </ul>
             </div>  
         </div>  
         <hr/>
-        <p className="footer-copyright">Copyright 2024  © Tomato.com - All Right Reserved.</p>
+        <p className="footer-copyright">Copyright 2024  © DishDrop.com - All Right Reserved.</p>
     </div>  
    
   )
